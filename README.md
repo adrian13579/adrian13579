@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Adrian, a Computer Science student and Software Engineer.
+### Hi there 👋, I'm Adrian, a Software Engineer.
 
 <!--
 **adrian13579/adrian13579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
